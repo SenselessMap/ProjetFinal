@@ -1,0 +1,35 @@
+2025/04/07 21:40:17 [emerg] 27404#33696: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2025/04/07 21:45:09 [error] 34768#27704: *1 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2025/04/07 22:20:48 [emerg] 32840#14868: unknown directive "HTTPS" in C:\nginx/conf/nginx.conf:99
+2025/04/07 22:21:39 [emerg] 17668#5664: unknown directive "HTTPS" in C:\nginx/conf/nginx.conf:99
+2025/04/07 22:27:33 [error] 34768#27704: *7 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2025/04/07 22:27:33 [error] 34768#27704: *7 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2025/04/07 22:27:34 [error] 34768#27704: *7 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2025/04/07 22:28:22 [emerg] 7828#25428: unknown directive "HTTPS" in C:\nginx/conf/nginx.conf:87
+2025/04/07 22:29:19 [emerg] 10396#32340: unknown directive "HTTPS" in C:\nginx/conf/nginx.conf:82
+2025/04/07 22:29:46 [emerg] 17292#19464: unknown directive "HTTPS" in C:\nginx/conf/nginx.conf:82
+2025/04/07 22:30:16 [emerg] 37236#25416: unknown directive "HTTPS" in C:\nginx/conf/nginx.conf:82
+2025/04/07 22:31:18 [emerg] 21684#29416: unknown directive "HTTPS" in C:\nginx/conf/nginx.conf:82
+2025/04/07 22:31:26 [emerg] 22756#15264: unknown directive "HTTPS" in C:\nginx/conf/nginx.conf:82
+2025/04/07 22:31:33 [emerg] 38188#5924: unknown directive "HTTPS" in C:\nginx/conf/nginx.conf:82
+2025/04/07 22:35:39 [emerg] 16512#5744: unknown directive "HTTPS" in C:\nginx/conf/nginx.conf:84
+2025/04/07 22:36:32 [emerg] 10808#10636: unknown directive "HTTPS" in C:\nginx/conf/nginx.conf:84
+2025/04/07 22:36:36 [emerg] 22964#35304: unknown directive "HTTPS" in C:\nginx/conf/nginx.conf:84
+2025/04/07 22:36:49 [emerg] 20156#23096: unknown directive "HTTPS" in C:\nginx/conf/nginx.conf:84
+2025/04/07 22:36:58 [error] 34768#27704: *26 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2025/04/07 22:36:59 [error] 34768#27704: *26 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2025/04/07 22:47:48 [emerg] 6732#19884: unknown directive "HTTPS" in C:\nginx/conf/nginx.conf:78
+2025/04/07 22:48:25 [emerg] 22224#5156: unknown directive "HTTPS" in C:\nginx/conf/nginx.conf:78
+2025/04/07 22:48:52 [emerg] 11740#23924: unknown directive "HTTPS" in C:\nginx/conf/nginx.conf:78
+2025/04/07 22:49:35 [emerg] 13228#20156: unknown directive "HTTPS" in C:\nginx/conf/nginx.conf:78
+2025/04/07 22:51:01 [emerg] 23100#35068: unknown directive "HTTPS" in C:\nginx/conf/nginx.conf:75
+2025/04/07 22:51:45 [emerg] 6388#30868: unknown directive "HTTPS" in C:\nginx/conf/nginx.conf:80
+2025/04/07 22:52:56 [emerg] 32308#11328: unknown directive "HTTPS" in C:\nginx/conf/nginx.conf:83
+2025/04/07 22:54:28 [emerg] 34148#21028: unknown directive "HTTPS" in C:\nginx/conf/nginx.conf:82
+2025/04/07 22:56:11 [emerg] 26900#32380: cannot load certificate "C:\nginx/conf/ssl/server.crt": BIO_new_file() failed (SSL: error:80000003:system library::No such process:calling fopen(C:\nginx/conf/ssl/server.crt, r) error:10000080:BIO routines::no such file)
+2025/04/07 22:56:28 [emerg] 25376#13528: cannot load certificate "C:\nginx/conf/ssl/server.crt": BIO_new_file() failed (SSL: error:80000003:system library::No such process:calling fopen(C:\nginx/conf/ssl/server.crt, r) error:10000080:BIO routines::no such file)
+2025/04/07 22:57:17 [notice] 21384#37252: signal process started
+2025/04/07 22:57:17 [error] 21384#37252: OpenEvent("Global\ngx_stop_2460") failed (2: The system cannot find the file specified)
+2025/04/07 22:58:31 [emerg] 39828#21444: bind() to 0.0.0.0:443 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2025/04/07 22:58:37 [emerg] 17520#7064: bind() to 0.0.0.0:443 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2025/04/07 22:59:18 [emerg] 34180#39540: bind() to 0.0.0.0:443 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
